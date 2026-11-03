@@ -52,6 +52,8 @@ In Render dashboard, add these environment variables:
    ```
 
 ## Bot Commands
+- `w8bdcr bot stop`: Deactivate the bot
+- `w8bdcr bot start done`: Reactivate the bot
 
 ## Notes
 - The free tier of Render may have some limitations
